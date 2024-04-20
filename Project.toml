@@ -1,0 +1,13 @@
+name = "LearningInJulia"
+uuid = "95e03bbd-8c6b-45fa-96cd-a2c0c1250fb1"
+authors = ["Himanshu Gupta"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
